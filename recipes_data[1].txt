@@ -1,0 +1,99 @@
+name: Classic Pancakes
+category: Breakfast
+steps: Sift flour, baking powder, sugar, and salt together in a large bowl. Make a well in the center and add milk, melted butter, and egg; mix until smooth, Heat a lightly oiled griddle or pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake; cook until bubbles form and the edges are dry, about 2 to 3 minutes. Flip and cook until browned on the other side. Repeat with remaining batter.
+ingredients: all-purpose flour, baking powder, sugar, salt, milk, butter
+quantities: 1 cups all-purpose flour, 3 tsp baking powder, 1 tbsp sugar, 1 tsp salt, 1 cups milk, 3 tbsp butter, 1 egg
+cooking_time: 15
+serving_size: 8
+
+name: Greek Yoghurt Chia Pudding
+category: Breakfast
+steps: Whisk Greek yogurt, milk, chia seeds, and honey together in a small bowl until well blended. Cover and refrigerate overnight. Before serving, stir to redistribute any seeds that may have settled. Top with your favorite fruit and enjoy!
+ingredients: greek yoghurt, milk, chia seeds, honey, fruits
+quantities: Greek yoghurt, 2/3 cup milk, 2 tbsp chia seeds, 1/2 tbsp honey, 1 cup chopped fresh fruit
+cooking_time: 480
+serving_size: 2
+
+name: Chicken Pesto Pasta
+category: Lunch
+steps: Bring a large pot of lightly salted water to a boil. Add pasta and cook until al dente, 8 to 10 minutes; drain. Heat oil in a large skillet over medium heat. Saute garlic until tender, then stir in chicken and season with red pepper flakes. Cook until chicken is golden and cooked through. Combine pasta, chicken, pesto, and sun-dried tomatoes in a large bowl; toss to coat evenly.
+ingredients: bow tie pasta, olive oil, garlic, chicken, red crushed pepper, pesto sauce, sun dried tomatoes
+quantities: 16 ounce bow tie pasta, 1 tsp olive oil, 2 cloves garlic minced, 2 skinless boneless chicken breasts, 1 pinch crushed red pepper flakes, 1/2 cup pesto sauce, 1/3 cup oil-packed sun-dried tomatoes
+cooking_time: 20
+serving_size: 8
+
+name: Honey Garlic Chicken Thighs
+category: Lunch
+steps: Season chicken on both sides with salt and pepper. Cover the bottom of a cast iron skillet with olive oil and bring to medium-high heat. Add chicken and brown on one side, 3 to 5 minutes. Flip chicken and add onion and garlic; continue to cook until chicken is mostly (but not fully) cooked and onion and garlic are soft, 5 to 7 minutes more. Remove chicken to a plate. Add honey, soy sauce, onion powder, and garlic powder to the skillet. Stir and scrape the bottom of the pan with a wooden spoon to get garlic and onion to mix with the liquid. Put chicken back into the pan, cover, and reduce heat to medium. Cook until no longer pink in the center and juices run clear, about 10 more minutes, turning once halfway through. An instant-read thermometer inserted into the center of a thigh should read at least 165 degrees F (74 degrees C). Place on a serving tray and drizzle liquid from the pan on top. Sprinkle with chopped cilantro before serving.
+ingredients: chicken, salt, pepper, olive oil, onions, garlic clove, honey, soy sauce, onion powder, garlic powder, cilantro
+quantities: 5 ounce boneless chicken thighs, salt, ground black pepper,2 tbsp olive oil, ½ medium onion, 7 cloves garlic chopped, 1 cup honey, ½ cup soy sauce, 1 pinch onion powder, 1 pinch garlic powder, ¼ cup chopped fresh cilantro
+cooking_time: 30
+serving_size: 8
+
+name: Ground Beef & Cabbage
+category: Dinner
+steps: Place cabbage, tomatoes with juice, onion, Italian seasoning, salt, and pepper into a Dutch oven or large pot over low heat; cook and stir until it begins to simmer. Add lean ground beef on top; cover and cook, stirring occasionally, until cabbage is tender and ground beef is cooked through, about 45 minutes.
+ingredients: ground beef, cabbage, tomatoes, onion, italian seasoning, salt, black pepper
+quantities: 1 large head cabbage, 1 (14.5 ounce) can diced tomatoes with juice, 1 onion, 1 tbsp Italian seasoning, salt, ground black pepper, 1 pound lean ground beef
+cooking_time: 45
+serving_size: 6
+
+name: Instant Pot Thai Chicken Soup
+category: Dinner
+steps: Place the carrots, red pepper, mushrooms, chicken, curry paste, sugar, and Swanson Chicken Broth into a 6-quart Instant Pot. Lock the lid and close the pressure release valve. Pressure cook on High pressure, setting the timer to 4 minutes (timer will begin counting down once pressure is reached- it takes about 15 minutes). When done, press Cancel and use the quick release method to release the pressure. Remove the chicken from the pot and stir in the coconut milk. Shred the chicken and return to the pot. Select the Saute setting and cook for 2 minutes or until hot. Stir in the lime juice and lime zest just before serving. Serve sprinkled with the cilantro.
+ingredients: carrots, bell pepper, mushrooms, chicken, thai red paste, sugar, chicken broth, milk, lime, lime zest, cilantro
+quantities: 4 carrots peeled, 1 medium red bell pepper, 2 1/2 cups sliced shiitake mushrooms, 12 ounces boneless skinless chicken breasts, 2 tbsp Thai red curry paste, 2 tbsp sugar, 4 cups chicken broth, 1 (14 ounce) can unsweetened coconut milk, 2 tbsp lime juice, 1 tbsp grated lime zest, 2 tbsp chopped fresh cilantro
+cooking_time: 50
+serving_size: 6
+
+name: Carrot cake Pancakes
+category: Breakfast
+steps: Gather all ingredients. Prepare the Pancakes: Whisk together flour, baking powder, cinnamon, pumpkin pie spice, baking soda, and salt in a large bowl until combined. Add buttermilk, brown sugar, egg, and vanilla; stir until just combined. Stir in carrots and melted butter until just combined. Set aside. Prepare the Frosting: In a medium bowl, whisk together cream cheese, milk, powdered sugar, and vanilla until smooth. Set aside. Prepare the Topping: In a small bowl, stir together raisins, pecans, coconut, and ginger, if desired. Set aside. Heat a large nonstick skillet or griddle over medium. Grease skillet or griddle with butter. Working in batches, scoop 1/4 cup batter per pancake into the skillet, being sure not to overcrowd skillet. Cook until bubbles begin to form on surface of pancakes and edges look dry, 2 to 3 minutes. Flip, and cook until fluffy and slightly firm, about 1 minute. Repeat with remaining batter, adding butter and adjusting heat as needed. Divide pancakes evenly among 4 plates. Drizzle Pancakes evenly with Frosting, and sprinkle evenly with Topping.
+ingredients: all-purpose flour, baking powder, cinnamon, pumpkin purree, baking soda, salt, buttermilk, brown sugar, egg, vanilla extract, carrot, butter, cream cheese, milk, powdered sugar, raisins, pecans/walnuts, coconut flakes, ginger
+quantities: 1 1/4 cups all-purpose flour, 1 1/2 tsp baking powder, 1 tsp ground cinnamon, 1/2 tsp pumpkin pie spice, 1/2 tsp baking soda, 1/4 tsp salt, 1 cup whole buttermilk, 1/4 cup packed light brown sugar, 1 large egg, 1 tsp vanilla extract, 3/4 cup finely grated carrot, 3 tbsp unsalted butter melted, 3 ounces cream cheese softened, 1 tbsp milk, 2 tbsp powdered sugar, 3 tbsp golden raisins, 3 tbsp toasted chopped pecans or walnuts, 3 tbsp toasted unsweetened coconut flakes, 1 tbsp finely chopped candied ginger
+cooking_time: 30
+serving_size: 4
+
+name: Apple Pancakes
+category: Breakfast
+steps: Combine egg, sugar, cinnamon, ginger, nutmeg, kosher salt, and vanilla extract in a bowl. Whisk until well combined and lightly foamy. Add shredded apple and lemon juice and fold in with a spatula until well combined. Add flour, baking powder, and baking soda. Mix until flour disappears and batter is thick yet spoonable. Melt butter in a skillet over medium heat. Add tablespoonfuls of apple batter to the hot butter and cook until browned, about 3 minutes. Turn and cook until apple pancakes spring back to the touch and are browned on the other side, an additional 3 minutes.
+ingredients: egg, sugar, cinnamon, ginger, nutmeg, salt, vanilla extract, apples, lemon juice, all-purpose flour, baking powder, baking soda, butter
+quantities: 1 large egg, 1 tbsp white sugar, 1/8 teaspoon ground cinnamon, 1 pinch ground ginger, 1 pinch nutmeg, 1/4 tsp kosher salt, 1/8 tsp pure vanilla extract, 1 cup shredded apple, 1 tsp lemon juice, 1/2 cup all-purpose flour, 1/4 tsp baking powder, 1/8 tsp baking soda, 2 tbsp melted butter
+cooking_time: 10
+serving_size: 2
+
+name: Tuna Patties
+category: Lunch
+steps: Beat eggs and lemon juice in a bowl; stir in bread crumbs and Parmesan cheese to make a paste. Fold in tuna and onion until well combined; season with black pepper. Use your hands to shape tuna mixture into 8 (1-inch-thick) patties. Heat vegetable oil in a skillet over medium heat. Fry patties in the hot oil until golden brown, about 5 minutes per side.
+ingredients: eggs, lemon juice, bread crumbs, permesan cheese, tuna, onion, black pepper, vegetable oil
+quantities: 2 eggs, 2 tsp lemon juice, 10 tbsp Italian-seasoned bread crumbs, 3 tbsp grated Parmesan cheese, 3 cans tuna drained, 3 tbsp diced onion, 1 pinch ground black pepper, 3 tbsp vegetable oil
+cooking_time: 20
+serving_size: 4
+
+name: Black Beans and Rice
+category: Dinner
+steps: Heat oil in a saucepan over medium-high heat. Add onion and garlic; cook and stir until onion has softened, about 4 minutes. Stir in rice to coat; cook and stir for 2 minutes. Add vegetable broth and bring to a boil. Cover, reduce to a simmer, and cook until liquid is absorbed, about 20 minutes. Stir in beans, cumin, and cayenne; cook until beans are warmed through.
+ingredients: olive oil, onion, garlic, white rice, vegetable broth, black beans, cumin, cayenne pepper
+quantities: 1 tsp olive oil, 1 onion chopped, 2 cloves garlic minced, 3/4 cup white rice, 1 1/2 cups low sodium vegetable broth, 3 1/2 cups canned black beans, 1 tsp ground cumin, 1/4 tsp cayenne pepper
+cooking_time: 25
+serving_size: 6
+
+name: Garlic Shrimp
+category: Dinner
+steps: Heat olive oil in a heavy skillet over high heat until it just begins to smoke. Place shrimp in an even layer on the bottom of the pan and cook for 1 minute without stirring. Season shrimp with salt; cook and stir until shrimp begin to turn pink, about 1 minute. Add garlic and red pepper flakes; cook and stir for 1 minute. Stir in lemon juice, caper brine, 1 piece of butter, and 1/2 of the parsley; cook until butter has melted, about 1 minute. Reduce heat to low and stir in remaining 3 pieces butter. Cook and stir until butter has melted, sauce is thick, and shrimp are pink and opaque, 2 to 3 minutes. Remove shrimp with a slotted spoon and transfer to a bowl; continue to cook butter sauce, adding water, 1 teaspoon at a time, if too thick, about 2 minutes. Season with salt to taste; serve shrimp topped with the pan sauce and remaining parsley.
+ingredients: Olive oil, shrimp, salt, garlic, red pepper flakes, lemon juice, caper brine, butter, parsley, water
+quantities: 1 1/2 tbsp olive oil, 1 pound shrimp peeled and devined, salt to taste, 6 cloves garlic minced, 1/4 tsp red pepper flakes, 3 tbsp lemon juice, 1 tbsp caper brine, 2 tbsp cold butter cut into 4 equal pieces, 1/3 cup chopped flat-leaf parsley, 1 tsp water
+cooking_time: 480
+serving_size: 2
+
+name: Chicken Alfredo Pasta
+category: Lunch
+steps: Bring a large pot of lightly salted water to a boil. Add pasta and cook until al dente, 8 to 10 minutes; drain. Heat oil in a large skillet over medium heat. Saute garlic until tender, then stir in chicken and season with red pepper flakes. Cook until chicken is golden and cooked through. Combine pasta, chicken, pesto, and sun-dried tomatoes in a large bowl; toss to coat evenly.
+ingredients: bow tie pasta, olive oil, garlic, chicken, red crushed pepper, pesto sauce, sun dried tomatoes
+quantities: 16 ounce bow tie pasta, 1 tsp olive oil, 2 cloves garlic minced, 2 skinless boneless chicken breasts, 1 pinch crushed red pepper flakes, 1/2 cup pesto sauce, 1/3 cup oil-packed sun-dried tomatoes
+cooking_time: 20
+serving_size: 8
+
+
+#Recipes are from
+#https://www.allrecipes.com/recipes/78/breakfast-and-brunch/
